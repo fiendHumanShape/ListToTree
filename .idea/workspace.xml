@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1644291-e9db-4f4a-a22a-da026d8ef1d3" name="Default Changelist" comment="构建项目">
+    <list default="true" id="b1644291-e9db-4f4a-a22a-da026d8ef1d3" name="Default Changelist" comment="测试提交代码块">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zfb/test/TestListToTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zfb/entity/TreeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zfb/entity/TreeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zfb/uilt/ListToTreeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zfb/uilt/ListToTreeUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +24,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +52,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestListToTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zfb.test.TestListToTree" />
+      <module name="ListToTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zfb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestListToTree" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662986231816</updated>
       <workItem from="1662986235499" duration="541000" />
+      <workItem from="1662986861654" duration="3856000" />
     </task>
     <task id="LOCAL-00001" summary="构建项目">
       <created>1662986268946</created>
@@ -52,33 +99,92 @@
       <option name="project" value="LOCAL" />
       <updated>1662986268946</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试提交代码块">
+      <created>1662987120558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662987120558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="构建项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="构建项目" />
+    <MESSAGE value="测试提交代码块" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交代码块" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1662989723636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1662989723636" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1662986246853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1662986246853" />
-    <state x="809" y="441" key="Github.Dialog.Accounts.Choose" timestamp="1662986313208">
+    <state x="809" y="441" key="Github.Dialog.Accounts.Choose" timestamp="1662986944003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="809" y="441" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1662986313208" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1662986724018">
+    <state x="809" y="441" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1662986944003" />
+    <state width="938" height="263" key="GridCell.Tab.0.bottom" timestamp="1662990720095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662986724018" />
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662986765926">
+    <state width="938" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.0.center" timestamp="1662990720095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662986765926" />
+    <state width="938" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.0.left" timestamp="1662990720095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.0.right" timestamp="1662990720095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.1.bottom" timestamp="1662990720095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.1.center" timestamp="1662990720095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="263" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.1.left" timestamp="1662990720095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="263" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state width="938" height="263" key="GridCell.Tab.1.right" timestamp="1662990720095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="263" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1662990720095" />
+    <state x="696" y="221" key="RollbackChangesDialog" timestamp="1662986893730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1662986893730" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1662987130046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662987130046" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662987135945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1662987135945" />
     <state x="740" y="380" key="git4idea.rebase.GitRebaseDialog" timestamp="1662986716645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
